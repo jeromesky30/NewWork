@@ -11,10 +11,7 @@
   position: fixed;
   width: 100%;
 }
-.header2
-{
-  position:relative; left:800px; top:200px;
-}
+
 .wrapper nav{
   position: relative;
   display: flex;
@@ -255,13 +252,14 @@ nav .content .links{
 
 .dummy-text{
   position: absolute;
-  top: 50%;
+  top: 20%;
   left: 50%;
   width: 100%;
   z-index: -1;
   padding: 0 20px;
   text-align: center;
   transform: translate(-50%, -50%);
+  color:rgb(251, 9, 142);
 }
 .dummy-text h2{
   font-size: 45px;
