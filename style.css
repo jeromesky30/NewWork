@@ -11,6 +11,10 @@
   position: fixed;
   width: 100%;
 }
+.header2
+{
+  position:relative; left:800px; top:200px;
+}
 .wrapper nav{
   position: relative;
   display: flex;
